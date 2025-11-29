@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 MERN Full-Stack Developer | Next.js 14 + TypeScript  <br>Built & deployed: Syrian Schools Platform (for Ministry of Education) + Restaurant System  <br>Open to freelance/remote roles  <br>Live demos below ↓
 
